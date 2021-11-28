@@ -1,7 +1,7 @@
 {
     "name": "falces/envloader",
     "type": "library",
-    "description": "Pruebas de librería propia",
+    "description": "Load .env variables and set them into $_ENV array",
     "license": "MIT",
     "keywords": ["falces"],
     "authors": [

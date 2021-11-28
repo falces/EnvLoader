@@ -44,4 +44,9 @@ class DotEnvLoader
             }
         }
     }
+
+    public function getEnvironmentVariables(): array
+    {
+        return array_keys($_ENV);
+    }
 }
