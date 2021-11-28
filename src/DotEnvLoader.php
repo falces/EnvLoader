@@ -1,6 +1,6 @@
 <?php
 
-namespace Falces\DotEnvLoader;
+namespace Falces;
 
 class DotEnvLoader
 {
