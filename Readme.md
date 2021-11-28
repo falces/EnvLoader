@@ -1,0 +1,1 @@
+https://dev.to/fadymr/php-create-your-own-php-dotenv-3k2i
