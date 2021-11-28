@@ -1,4 +1,21 @@
 {
     "name": "falces/envloader",
-    "type": "library"
+    "type": "library",
+    "description": "Pruebas de librería propia",
+    "license": "MIT",
+    "keywords": ["falces"],
+    "authors": [
+        {
+        "name": "Javi R. Falces",
+        "email": "falces@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Falces\\EnvLoader\\": "src"        }
+    }
 }
