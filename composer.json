@@ -16,6 +16,6 @@
     },
     "autoload": {
         "psr-4": {
-            "Falces\\EnvLoader\\": "src"        }
+            "Falces\\DotEnvLoader\\": "src"        }
     }
 }
