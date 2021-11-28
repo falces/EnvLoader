@@ -1,8 +1,8 @@
 <?php
 
-namespace DevCoder;
+namespace DotEnvLoader;
 
-class DotEnv
+class DotEnvLoader
 {
     /**
      * The directory where the .env file can be located.
