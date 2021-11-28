@@ -1,6 +1,6 @@
 <?php
 
-namespace DotEnvLoader;
+namespace EnvLoader\EnvLoader;
 
 class DotEnvLoader
 {
